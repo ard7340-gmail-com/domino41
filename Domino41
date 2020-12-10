@@ -16,7 +16,7 @@ def main();
     a=getpass,getpass("       password :")
     url="https://www.topbos.com/web/53732612.do"
     hed={
-    "user-agen":"mozila/5.0(linux;Android 8.1.0;CPH1803_11_A.32;  wv)OPPOa3s/Q_V1_P14,Q_V1_P14) version/4.0 Chrome/55.0.288391 Mobile Safary/537.36"
+    "user-agen":"53732612/5.0(linux;Android 8.1.0;CPH1803_11_A.32;  wv)OPPOa3s/Q_V1_P14,Q_V1_P14) version/4.0 Chrome/55.0.288391 Mobile Safary/537.36"
    }
    data={
    "userid";b,ard7340
